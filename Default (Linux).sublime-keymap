@@ -1,0 +1,3 @@
+[
+	{ "keys": ["ctrl+shift+u"], "command": "rails_go_to_sass" }
+]

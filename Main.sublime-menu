@@ -1,0 +1,9 @@
+[{
+  "caption": "Goto",
+  "id": "goto",
+  "children": [{
+    "id": "rails_go_to_sass",
+    "caption": "Rails Go to Sass",
+    "command": "rails_go_to_sass"
+  }]
+}]
